@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3979
     wikipedia: http://en.wikipedia.org/wiki/Hannah_Flagg_Gould
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/44444#Mother-s-Dream-and-Other-Poems
 gutenberg_issued: '2013-12-16'
 gutenberg_type: Text
 identifiers:
