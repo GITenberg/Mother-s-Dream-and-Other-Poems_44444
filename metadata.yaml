@@ -1,0 +1,30 @@
+_repo: Mother-s-Dream-and-Other-Poems_44444
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44444-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Gould, Hannah Flagg
+    aliases:
+    - Gould, Hannah F. (Hannah Flagg)
+    - Gould, H. F. (Hannah Flagg)
+    birthdate: 1789
+    deathdate: 1865
+    gutenberg_agent_id: '3979'
+    url: http://www.gutenberg.org/2009/agents/3979
+    wikipedia: http://en.wikipedia.org/wiki/Hannah_Flagg_Gould
+description: ''
+gutenberg_issued: '2013-12-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44444'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'American poetry -- 19th century'
+title: The Mother's Dream, and Other Poems
+url: http://www.gutenberg.org/ebooks/44444
